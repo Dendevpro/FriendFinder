@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+    line-height: 1.2;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.img-responsive {
+    background-image: url("../images/Finder-HP.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: red;
+}
+
+jumbotron {
+    background: none;
+}

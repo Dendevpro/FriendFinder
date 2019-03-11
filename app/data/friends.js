@@ -1,7 +1,7 @@
 var friends = [
     {
-        name: "Ross Geller",
-        photo: "http://68.media.tumblr.com/6cea09c793de512f267ffb4dc783f466/tumblr_mh3c4hFGPu1r9zaago1_500.gif",
+        name: "Kelly Slater",
+        img: "https://66.media.tumblr.com/044b4593cfb1b90779167df12810a777/tumblr_pmtthajfW91qgzs6bo1_500.gif",
         scores: [
             "5",
             "1",
@@ -16,8 +16,8 @@ var friends = [
         ]
     },
     {
-        name: "Phoebe Buffay",
-        photo: "http://25.media.tumblr.com/23e479224f5179ac42665e7a648cf309/tumblr_mndv0cYih81r9zaago1_500.gif",
+        name: "Michael Jordan",
+        img: "https://66.media.tumblr.com/c9a48bf640f2ab62becd997b2b145cac/tumblr_pdry8rgj3c1sbxj8ao1_400.gif",
         scores: [
             "4",
             "2",
@@ -32,8 +32,8 @@ var friends = [
         ]
     },
     {
-        name: "Rachel Green",
-        photo: "http://38.media.tumblr.com/20ad32ddb6e4a8d04dea653b0373dfa6/tumblr_mfv54rXt5l1r9zaago1_500.gif",
+        name: "Bob Marley",
+        img: "https://66.media.tumblr.com/425a5efc2e7bb59820afa8c8b15193bd/tumblr_o375azSQii1v1z098o1_400.gif",
         scores: [
             "5",
             "2",
@@ -48,11 +48,11 @@ var friends = [
         ]
     },
     {
-        name: "Monica Geller",
-        photo: "https://media.giphy.com/media/beYVvBUHy1Gla/giphy.gif",
+        name: "Steve Jobs",
+        img: "https://66.media.tumblr.com/eaa4fccf122ceabf8d57824db06466e2/tumblr_oo363w1HvT1uz7w7ko1_500.jpg",
         scores: [
             "3",
-            "3",
+            "5",
             "4",
             "2",
             "2",
@@ -64,8 +64,8 @@ var friends = [
         ]
     },
     {
-        name: "Joey Tribiani",
-        photo: "https://media.giphy.com/media/1FDzUi3TRm4yQ/giphy.gif",
+        name: "Steve Jobs",
+        img: "https://66.media.tumblr.com/25f0cdf41e265de9dbcf9de57794ff7c/tumblr_pbgr3jBZvN1ql734to1_500.jpg",
         scores: [
             "4",
             "3",
@@ -80,8 +80,8 @@ var friends = [
         ]
     },
     {
-        name: "Chandler Bing",
-        photo: "http://33.media.tumblr.com/cf9686363fde6ca698a9b5b603eef01a/tumblr_ms0bxt7ThZ1r9zaago1_500.gif",
+        name: "Madonna",
+        img: "https://66.media.tumblr.com/dbffec8420175d12b65aa947d6c4e384/tumblr_p71fpoZAz11sgba1mo1_500.gif",
         scores: [
             "4",
             "4",
