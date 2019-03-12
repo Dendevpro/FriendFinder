@@ -9,17 +9,13 @@ body {
 }
 
 .img-responsive {
-    background-image: url("../images/Finder-HP.jpg");
+    background: url("../images/Finder-HP.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-h1 {
-    color: red;
-}
-
-jumbotron {
-    background: none;
+.jumbotron {
+    margin-top: 10rem;
 }
