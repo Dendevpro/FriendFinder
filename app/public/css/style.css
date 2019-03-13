@@ -9,7 +9,7 @@ body {
 }
 
 .img-responsive {
-    background: url("../images/Finder-HP.jpg");
+    background-image: url("../images/Finder-HP.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
@@ -17,5 +17,25 @@ body {
 }
 
 .jumbotron {
-    margin-top: 10rem;
+    margin-top: 6rem;
+}
+
+.card {
+    padding:1rem;
+    margin: 2rem auto;
+}
+#last-card {
+    margin-bottom: 0;
+}
+
+footer {
+    background: black;
+    padding: 0.5rem;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#submit {
+    margin-bottom: 4rem;
 }
