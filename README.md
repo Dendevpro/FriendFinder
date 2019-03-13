@@ -19,4 +19,4 @@ Friend finder is a full-stack compatibility-based app that takes in results from
 **[View App Demo](https://heroku.link.html)**
 - - - 
 ## Project Built With
-[Javascript](https://www.javascript.com/) | [Node.js](https://www.nodejs.org/) | [Express](https://expressjs.com/) | [Body-Parser](https://www.npmjs.com/package/body-parser) | [Path](https://www.npmjs.com/package/path)
+[HTML](https://html.com) | [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) | [Bootstrap](https://getbootstrap.com) | [Javascript](https://www.javascript.com/) | [Node.js](https://www.nodejs.org/) | [Express](https://expressjs.com/) | [Body-Parser](https://www.npmjs.com/package/body-parser) | [Path](https://www.npmjs.com/package/path)
