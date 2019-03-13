@@ -1,4 +1,3 @@
-- - - 
 # FriendFinder  ![FFinder Icon](https://img.icons8.com/nolan/64/000000/groups.png)
 Friend finder is a full-stack compatibility-based app that takes in results from users' surveys, then compare the answers with those from other users. The app displays the name and picture of the user with the best overall match.
 
@@ -11,10 +10,10 @@ Friend finder is a full-stack compatibility-based app that takes in results from
 
 ### Mechanics
 #### User/Client side
-`The user is invited to answer a multiple choice survey. Then the score is compared to other users scores and a match sets place. Based on this result the name and picture of the match user is displayed on the screen.`
+- The user is invited to answer a multiple choice survey. Then the score is compared to other users scores and a match sets place. Based on this result the name and picture of the match user is displayed on the screen.`
 
 #### Server side
-`The app takes the users answers, saves them in an array and then compares them to scores from other previous users. The result sets up a match. The app then retrieves data (name and picture) from the server and display on the screen`
+- The app takes the users answers, saves them in an array and then compares them to scores from other previous users. The result sets up a match. The app then retrieves data (name and picture) from the server and display on the screen`
 
 - - - 
 **[View App Demo](https://heroku.link.html)**
