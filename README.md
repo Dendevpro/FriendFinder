@@ -1,5 +1,5 @@
 # FriendFinder  ![FFinder Icon](https://img.icons8.com/nolan/64/000000/groups.png)
-Friend finder is a full-stack compatibility-based app that takes in results from user's survey, then compare the answers with those from other users. The app displays the name and picture of the user with the best overall match.
+Friend Finder is a full-stack compatibility-based app that takes in results from user's survey, then compare the answers with ones stored on the database.
 
 ### Instructions
 - The survey has __10__ questions with __5__ possible answers each. The answers are classified in a scale of 1 to 5 based on how much the user - agrees or disagrees with the question.
