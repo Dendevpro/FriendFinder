@@ -1,4 +1,4 @@
-# FriendFinder  ![FFinder Icon](https://img.icons8.com/nolan/64/000000/groups.png)
+# FriendFinder
 Friend Finder is a full-stack compatibility-based app that takes in results from user's survey, then compare the answers with ones stored on the database.
 
 ### Instructions
