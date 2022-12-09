@@ -4,7 +4,7 @@
   "description": "(Friend finder app)",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "package-json": "^6.1.0",
     "bootstrap": "^4.3.1"
   },
